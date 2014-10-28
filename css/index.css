@@ -1,0 +1,36 @@
+body {
+	background-image: url('../images/background_4.jpg');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: left top;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.portrait {
+    width: 140px;
+    height: 140px;
+}
+/*
+.social {
+    position: fixed;
+    bottom: 10%;
+    left: 39%
+}
+*/
+.social-icon {
+    width: 60px;
+    height: 60px;
+}
